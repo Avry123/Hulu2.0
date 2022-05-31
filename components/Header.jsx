@@ -5,7 +5,7 @@ import {BadgeCheckIcon,
   HomeIcon,
   LightningBoltIcon,
   SearchIcon,
-  UserIcon} from '@heroIcons/react/outline'
+  UserIcon} from '@heroicons/react/outline'
 
 function Header() {
   return (
